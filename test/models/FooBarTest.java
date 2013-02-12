@@ -7,7 +7,7 @@ import java.util.List;
 
 import static org.fest.assertions.Assertions.assertThat;
 
-public class PracticeTest extends FakeApplicationTest {
+public class FooBarTest extends FakeApplicationTest {
 
     @Test
     public void test() {
